@@ -20,3 +20,15 @@ AI-powered therapy recommendation web app built with Flask, Gemini API, and JSON
 
 **JSON File Storage:**
 - Stores all user queries and corresponding AI responses for future use or analytics.
+
+- ## 🛠️ Tech Stack
+
+**Tech Stack**
+Frontend : HTML, CSS, JavaScript
+Backend : Flask (Python) 
+AI Model : Gemini API (via google-generativeai)
+Storage : JSON File |
+Environment : Python 3.x 
+
+
+
