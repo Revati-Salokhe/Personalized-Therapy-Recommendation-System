@@ -1,0 +1,10 @@
+[
+  {
+        "query": "my head is paining suggest me therapy",
+        "response": "1. Cognitive Behavioral Therapy (CBT)\n2. Mindfulness-Based Stress Reduction (MBSR)\n3. Relaxation Training"
+    },
+    {
+        "query": "suggest me therapies of knee pain",
+        "response": "1. Physical Therapy\n2. Occupational Therapy\n3.  Acupuncture"
+    }
+]
