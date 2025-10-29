@@ -24,11 +24,15 @@ AI-powered therapy recommendation web app built with Flask, Gemini API, and JSON
 - ## 🛠️ Tech Stack
 
 **Tech Stack**
-Frontend : HTML, CSS, JavaScript
-Backend : Flask (Python) 
-AI Model : Gemini API (via google-generativeai)
-Storage : JSON File |
-Environment : Python 3.x 
+- Frontend : HTML, CSS, JavaScript
+- Backend : Flask (Python) 
+- AI Model : Gemini API (via google-generativeai)
+- Storage : JSON File |
+- Environment : Python 3.x
 
+**👩‍💻 Author**
+Revati Salokhe
+📧 revati.salokhe27@gmail.com
 
-
+**🏷️ Tags**
+#flask #ai #gemini-api #python #frontend #fullstack #mentalhealth #therapy
